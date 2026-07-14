@@ -5,13 +5,10 @@ import { shareVideoLink } from '../../services/shareService.js';
 import { VideoPlayer } from './VideoPlayer.jsx';
 import styles from './VideoCarousel.module.css';
 
-function VideoModal({ videos, activeIndex, activeId, onClose }) {
+function VideoModal({ videos, activeIndex, onClose }) {
   const [index, setIndex] = useState(activeIndex);
   const { optimisticLike, recordShare } = useVideos();
-  useEffect(() => {
-    const requestedIndex = videos.findIndex((video) => video.id === activeId);
-    setIndex(requestedIndex >= 0 ? requestedIndex : activeIndex);
-  }, [activeId, activeIndex, videos]);
+  useEffect(() => setIndex(activeIndex), [activeIndex]);
   const windowedVideos = useMemo(() => getCircularWindow(videos, index, 1), [videos, index]);
   const move = useCallback((delta) => setIndex((current) => (current + delta + videos.length) % videos.length), [videos.length]);
   const onShare = useCallback(async (video) => { const platform = await shareVideoLink(video); recordShare(video.id, platform); }, [recordShare]);
@@ -22,7 +19,7 @@ function VideoModal({ videos, activeIndex, activeId, onClose }) {
       if (event.key === 'ArrowRight') move(1);
       if (event.key === 'ArrowLeft') move(-1);
     };
-    window.addEventListener('keydown', onKey);
+    window.addEventListener('keydown', onKey, { passive: true });
     return () => window.removeEventListener('keydown', onKey);
   }, [move, onClose]);
 

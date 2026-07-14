@@ -3,7 +3,6 @@
 Production-oriented React + Express implementation of a high-performance video carousel inspired by Instagram Reels and socially approved travel sections.
 
 ## Architecture
-
 - React functional components with memoization, lazy modal import, and Context-powered optimistic updates.
 - Swiper.js outer thumbnail carousel keeps the browsing surface responsive for 30–40 items.
 - Modal carousel renders only previous/current/next slides via a circular window, keeping active video elements low.
@@ -90,6 +89,12 @@ npm run preview
 ### Lint check
 
 ```bash
+=======
+## Commands
+```bash
+npm install
+npm run dev
+npm run build
 npm run lint
 ```
 
@@ -110,3 +115,4 @@ curl http://localhost:4000/videos
 - If the web app shows `Unable to load videos.`, confirm the API is running and reachable at the configured `VITE_API_BASE_URL`.
 - If port `4000` is already in use, run the API with another `PORT` and update `VITE_API_BASE_URL` accordingly.
 - If install fails, clear your local npm cache with `npm cache verify`, confirm registry access with `npm config get registry`, and rerun `npm install`.
+
