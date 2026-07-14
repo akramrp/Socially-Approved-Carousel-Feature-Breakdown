@@ -89,7 +89,6 @@ npm run preview
 ### Lint check
 
 ```bash
-=======
 ## Commands
 ```bash
 npm install
