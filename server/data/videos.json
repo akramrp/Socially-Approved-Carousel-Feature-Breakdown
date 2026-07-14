@@ -1,0 +1,362 @@
+[
+{
+  "id": "video-1",
+  "title": "Creator Pick 1",
+  "description": "A socially approved travel moment curated for high-intent inspiration 1.",
+  "thumbnail": "https://picsum.photos/seed/social-1/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1217,
+  "shares": 81
+},
+{
+  "id": "video-2",
+  "title": "Creator Pick 2",
+  "description": "A socially approved travel moment curated for high-intent inspiration 2.",
+  "thumbnail": "https://picsum.photos/seed/social-2/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1234,
+  "shares": 82
+},
+{
+  "id": "video-3",
+  "title": "Creator Pick 3",
+  "description": "A socially approved travel moment curated for high-intent inspiration 3.",
+  "thumbnail": "https://picsum.photos/seed/social-3/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1251,
+  "shares": 83
+},
+{
+  "id": "video-4",
+  "title": "Creator Pick 4",
+  "description": "A socially approved travel moment curated for high-intent inspiration 4.",
+  "thumbnail": "https://picsum.photos/seed/social-4/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1268,
+  "shares": 84
+},
+{
+  "id": "video-5",
+  "title": "Creator Pick 5",
+  "description": "A socially approved travel moment curated for high-intent inspiration 5.",
+  "thumbnail": "https://picsum.photos/seed/social-5/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1285,
+  "shares": 85
+},
+{
+  "id": "video-6",
+  "title": "Creator Pick 6",
+  "description": "A socially approved travel moment curated for high-intent inspiration 6.",
+  "thumbnail": "https://picsum.photos/seed/social-6/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1302,
+  "shares": 86
+},
+{
+  "id": "video-7",
+  "title": "Creator Pick 7",
+  "description": "A socially approved travel moment curated for high-intent inspiration 7.",
+  "thumbnail": "https://picsum.photos/seed/social-7/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1319,
+  "shares": 87
+},
+{
+  "id": "video-8",
+  "title": "Creator Pick 8",
+  "description": "A socially approved travel moment curated for high-intent inspiration 8.",
+  "thumbnail": "https://picsum.photos/seed/social-8/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1336,
+  "shares": 88
+},
+{
+  "id": "video-9",
+  "title": "Creator Pick 9",
+  "description": "A socially approved travel moment curated for high-intent inspiration 9.",
+  "thumbnail": "https://picsum.photos/seed/social-9/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1353,
+  "shares": 89
+},
+{
+  "id": "video-10",
+  "title": "Creator Pick 10",
+  "description": "A socially approved travel moment curated for high-intent inspiration 10.",
+  "thumbnail": "https://picsum.photos/seed/social-10/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1370,
+  "shares": 90
+},
+{
+  "id": "video-11",
+  "title": "Creator Pick 11",
+  "description": "A socially approved travel moment curated for high-intent inspiration 11.",
+  "thumbnail": "https://picsum.photos/seed/social-11/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1387,
+  "shares": 91
+},
+{
+  "id": "video-12",
+  "title": "Creator Pick 12",
+  "description": "A socially approved travel moment curated for high-intent inspiration 12.",
+  "thumbnail": "https://picsum.photos/seed/social-12/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1404,
+  "shares": 92
+},
+{
+  "id": "video-13",
+  "title": "Creator Pick 13",
+  "description": "A socially approved travel moment curated for high-intent inspiration 13.",
+  "thumbnail": "https://picsum.photos/seed/social-13/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1421,
+  "shares": 93
+},
+{
+  "id": "video-14",
+  "title": "Creator Pick 14",
+  "description": "A socially approved travel moment curated for high-intent inspiration 14.",
+  "thumbnail": "https://picsum.photos/seed/social-14/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1438,
+  "shares": 94
+},
+{
+  "id": "video-15",
+  "title": "Creator Pick 15",
+  "description": "A socially approved travel moment curated for high-intent inspiration 15.",
+  "thumbnail": "https://picsum.photos/seed/social-15/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1455,
+  "shares": 95
+},
+{
+  "id": "video-16",
+  "title": "Creator Pick 16",
+  "description": "A socially approved travel moment curated for high-intent inspiration 16.",
+  "thumbnail": "https://picsum.photos/seed/social-16/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1472,
+  "shares": 96
+},
+{
+  "id": "video-17",
+  "title": "Creator Pick 17",
+  "description": "A socially approved travel moment curated for high-intent inspiration 17.",
+  "thumbnail": "https://picsum.photos/seed/social-17/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1489,
+  "shares": 97
+},
+{
+  "id": "video-18",
+  "title": "Creator Pick 18",
+  "description": "A socially approved travel moment curated for high-intent inspiration 18.",
+  "thumbnail": "https://picsum.photos/seed/social-18/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1506,
+  "shares": 98
+},
+{
+  "id": "video-19",
+  "title": "Creator Pick 19",
+  "description": "A socially approved travel moment curated for high-intent inspiration 19.",
+  "thumbnail": "https://picsum.photos/seed/social-19/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1523,
+  "shares": 99
+},
+{
+  "id": "video-20",
+  "title": "Creator Pick 20",
+  "description": "A socially approved travel moment curated for high-intent inspiration 20.",
+  "thumbnail": "https://picsum.photos/seed/social-20/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1540,
+  "shares": 100
+},
+{
+  "id": "video-21",
+  "title": "Creator Pick 21",
+  "description": "A socially approved travel moment curated for high-intent inspiration 21.",
+  "thumbnail": "https://picsum.photos/seed/social-21/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1557,
+  "shares": 101
+},
+{
+  "id": "video-22",
+  "title": "Creator Pick 22",
+  "description": "A socially approved travel moment curated for high-intent inspiration 22.",
+  "thumbnail": "https://picsum.photos/seed/social-22/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1574,
+  "shares": 102
+},
+{
+  "id": "video-23",
+  "title": "Creator Pick 23",
+  "description": "A socially approved travel moment curated for high-intent inspiration 23.",
+  "thumbnail": "https://picsum.photos/seed/social-23/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1591,
+  "shares": 103
+},
+{
+  "id": "video-24",
+  "title": "Creator Pick 24",
+  "description": "A socially approved travel moment curated for high-intent inspiration 24.",
+  "thumbnail": "https://picsum.photos/seed/social-24/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1608,
+  "shares": 104
+},
+{
+  "id": "video-25",
+  "title": "Creator Pick 25",
+  "description": "A socially approved travel moment curated for high-intent inspiration 25.",
+  "thumbnail": "https://picsum.photos/seed/social-25/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1625,
+  "shares": 105
+},
+{
+  "id": "video-26",
+  "title": "Creator Pick 26",
+  "description": "A socially approved travel moment curated for high-intent inspiration 26.",
+  "thumbnail": "https://picsum.photos/seed/social-26/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1642,
+  "shares": 106
+},
+{
+  "id": "video-27",
+  "title": "Creator Pick 27",
+  "description": "A socially approved travel moment curated for high-intent inspiration 27.",
+  "thumbnail": "https://picsum.photos/seed/social-27/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1659,
+  "shares": 107
+},
+{
+  "id": "video-28",
+  "title": "Creator Pick 28",
+  "description": "A socially approved travel moment curated for high-intent inspiration 28.",
+  "thumbnail": "https://picsum.photos/seed/social-28/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1676,
+  "shares": 108
+},
+{
+  "id": "video-29",
+  "title": "Creator Pick 29",
+  "description": "A socially approved travel moment curated for high-intent inspiration 29.",
+  "thumbnail": "https://picsum.photos/seed/social-29/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1693,
+  "shares": 109
+},
+{
+  "id": "video-30",
+  "title": "Creator Pick 30",
+  "description": "A socially approved travel moment curated for high-intent inspiration 30.",
+  "thumbnail": "https://picsum.photos/seed/social-30/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1710,
+  "shares": 110
+},
+{
+  "id": "video-31",
+  "title": "Creator Pick 31",
+  "description": "A socially approved travel moment curated for high-intent inspiration 31.",
+  "thumbnail": "https://picsum.photos/seed/social-31/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1727,
+  "shares": 111
+},
+{
+  "id": "video-32",
+  "title": "Creator Pick 32",
+  "description": "A socially approved travel moment curated for high-intent inspiration 32.",
+  "thumbnail": "https://picsum.photos/seed/social-32/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1744,
+  "shares": 112
+},
+{
+  "id": "video-33",
+  "title": "Creator Pick 33",
+  "description": "A socially approved travel moment curated for high-intent inspiration 33.",
+  "thumbnail": "https://picsum.photos/seed/social-33/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1761,
+  "shares": 113
+},
+{
+  "id": "video-34",
+  "title": "Creator Pick 34",
+  "description": "A socially approved travel moment curated for high-intent inspiration 34.",
+  "thumbnail": "https://picsum.photos/seed/social-34/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1778,
+  "shares": 114
+},
+{
+  "id": "video-35",
+  "title": "Creator Pick 35",
+  "description": "A socially approved travel moment curated for high-intent inspiration 35.",
+  "thumbnail": "https://picsum.photos/seed/social-35/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1795,
+  "shares": 115
+},
+{
+  "id": "video-36",
+  "title": "Creator Pick 36",
+  "description": "A socially approved travel moment curated for high-intent inspiration 36.",
+  "thumbnail": "https://picsum.photos/seed/social-36/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1812,
+  "shares": 116
+},
+{
+  "id": "video-37",
+  "title": "Creator Pick 37",
+  "description": "A socially approved travel moment curated for high-intent inspiration 37.",
+  "thumbnail": "https://picsum.photos/seed/social-37/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1829,
+  "shares": 117
+},
+{
+  "id": "video-38",
+  "title": "Creator Pick 38",
+  "description": "A socially approved travel moment curated for high-intent inspiration 38.",
+  "thumbnail": "https://picsum.photos/seed/social-38/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1846,
+  "shares": 118
+},
+{
+  "id": "video-39",
+  "title": "Creator Pick 39",
+  "description": "A socially approved travel moment curated for high-intent inspiration 39.",
+  "thumbnail": "https://picsum.photos/seed/social-39/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1863,
+  "shares": 119
+},
+{
+  "id": "video-40",
+  "title": "Creator Pick 40",
+  "description": "A socially approved travel moment curated for high-intent inspiration 40.",
+  "thumbnail": "https://picsum.photos/seed/social-40/540/840",
+  "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "likes": 1880,
+  "shares": 120
+}
+]
