@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
-const dbPath = path.resolve('server/data/videos.json');
+const dbPath = path.resolve('data/videos.json');
 async function readVideos() { return JSON.parse(await readFile(dbPath, 'utf8')); }
 async function writeVideos(videos) { await writeFile(dbPath, `${JSON.stringify(videos, null, 2)}\n`); }
 export async function listVideos() { return readVideos(); }
